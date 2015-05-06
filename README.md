@@ -16,6 +16,7 @@ Pick one up today in the Newhaven Display shop!
  Datasheet:
  
  [2x20 Character COG (RGB)](http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSRGB-FBW-3VM.pdf).
+ 
  [2x20 Character COG (White LED)](http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf).
  
  [Controller - ST7036](http://www.newhavendisplay.com/app_notes/ST7036.pdf).
