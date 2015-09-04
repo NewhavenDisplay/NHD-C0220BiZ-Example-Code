@@ -1,7 +1,5 @@
 NHD_C0220BiZ Example Code:
 ==============================================
-
-NHD_C0220BiZ.ino
  
 Program for writing to Newhaven Display 2x20 Character COG with ST7036 controller.
  

@@ -1,7 +1,7 @@
 //---------------------------------------------------------
 /*
 
-NHD_C0220BiZ.ino
+test.ino
 
 Program for writing to Newhaven Display 2x20 Character COG Display with ST7036 controller.
 
