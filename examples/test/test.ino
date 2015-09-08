@@ -3,7 +3,7 @@
 
 test.ino
 
-Program for writing to Newhaven Display 2x20 Character COG Display with ST7036 controller.
+Program for writing to Newhaven Display's 2x20 Character COG Display with ST7036 controller.
 
 Pick one up today in the Newhaven Display shop!
 
